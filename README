@@ -2,6 +2,7 @@ For Jetson TX1:
 ---------------
 
 Build it with Aarch64 param on RedistMaker script.
+We consider that you have OpenNI installed and both AARCH64_CXX and AARCH64_STAGING set.
 
 
 PrimeSense Sensor Module for OpenNI (Version 5.1.2.1 - May 15th 2012)
